@@ -130,3 +130,7 @@ This is an **unofficial, independent compatibility release**, not an official St
 It is derived from **PrivateStorageAnywherePLUS v1.5.10 by Stevi (Stevi2195)** and is distributed with permission. The 2.00 compatibility work, capacity behavior, diagnostics, validation, packaging, and documentation were developed separately for this release. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for the complete attribution and scope.
 
 Technical history is preserved in [docs/FINDINGS-2.00.md](docs/FINDINGS-2.00.md).
+
+## Buy me a coffee
+
+[buymeacoffee.com/sethwalker234](https://buymeacoffee.com/sethwalker234) if you want to.
